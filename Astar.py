@@ -1,4 +1,3 @@
-from os import path
 from queue import PriorityQueue
 from pyamaze import maze,agent
 
